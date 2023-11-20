@@ -1,0 +1,1 @@
+execute as @a run scoreboard objectives add playedDays dummy
